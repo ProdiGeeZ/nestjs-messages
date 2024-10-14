@@ -1,14 +1,22 @@
 {
-    "12": {
-        "content": "This is a test message",
-        "id": 12
-    },
-    "13": {
-        "content": "This is a another test message",
-        "id": 13
-    },
-    "14": {
-        "content": "Anuva test message",
-        "id": 14
-    }
+  "12": {
+    "content": "This is a test message",
+    "id": 12
+  },
+  "13": {
+    "content": "This is a another test message",
+    "id": 13
+  },
+  "14": {
+    "content": "Anuva test message",
+    "id": 14
+  },
+  "15": {
+    "id": 15,
+    "content": "string value"
+  },
+  "16": {
+    "id": 16,
+    "content": "LoL i just built my own messaging service. Noice."
+  }
 }
